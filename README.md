@@ -100,7 +100,7 @@
   <a href="https://www.gmail.com/marziyenajafzade@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-    <a href="https://marziyenajafzade.vercel.app" target="_blank" title="Personal Website" style="width: 52px;height: 42px;border: 1px solid;border-radius: 5px;background-color: white;text-decoration-line: blink;">
+    <a href="https://marziyenajafzade.vercel.app" target="_blank" title="Personal Website" width="52" height="40"  text-decoration-line="blink" style="width: 52px;height: 42px;border: 1px solid;border-radius: 5px;background-color: white;text-decoration-line: blink;">
       <div width="52" height="40" style="
     margin-top: 6px;
     color: black;
