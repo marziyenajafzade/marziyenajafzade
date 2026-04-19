@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Marziye Najafzade and I'm a web developer.</p>
+<p align="left">I've been working as a web developer since 2020.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Parsian Leasing supplier project<br>🌱 I’m currently learning React, Next js, Redux, Vue js</p>
+<p align="left">🔭 I’m currently working on Parsian Leasing projects<br>🌱 I’m currently learning React, Next js, Redux, Vue js</p>
 
 ###
 
